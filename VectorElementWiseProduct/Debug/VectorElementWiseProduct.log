@@ -1,0 +1,7 @@
+﻿  mainVectorElementWiseProduct.cpp
+C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct\mainVectorElementWiseProduct.cpp(95,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct\mainVectorElementWiseProduct.cpp(229,9): warning C4068: unknown pragma 'unroll'
+C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct\mainVectorElementWiseProduct.cpp(267,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct\mainVectorElementWiseProduct.cpp(279,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct\mainVectorElementWiseProduct.cpp(315,13): warning C4244: 'return': conversion from 'double' to '__int64', possible loss of data
+  VectorElementWiseProduct.vcxproj -> C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct\Debug\VectorElementWiseProduct.exe
