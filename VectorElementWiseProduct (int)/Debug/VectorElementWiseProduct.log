@@ -1,0 +1,4 @@
+﻿  Versions_Od_NoIntrinsics.cpp
+C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct (int)\Versions_Od_NoIntrinsics.cpp(65,10): warning C4068: unknown pragma 'unroll'
+C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct (int)\Versions_Od_NoIntrinsics.cpp(82,11): warning C4068: unknown pragma 'unroll'
+  VectorElementWiseProduct.vcxproj -> C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct (int)\Debug\VectorElementWiseProduct.exe

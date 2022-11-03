@@ -1,0 +1,2 @@
+C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct\Debug\VectorElementWiseProduct.exe
+C:\Users\daoud\Documents\school\VUB\Master\computerarchitectuur\VectorElementWiseProduct (int)\Debug\VectorElementWiseProduct.exe
